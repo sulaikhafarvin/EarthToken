@@ -1,3 +1,2 @@
-# Starter code for Faucet dApp tutorial
+Faucet UI codes
 
-Boilerplate code consisting of a new create-react-app project and some basic HTML and CSS.
