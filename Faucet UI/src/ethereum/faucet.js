@@ -150,7 +150,7 @@ const faucetAbi = [
 
 const faucetContract = (provider) => {
   return new ethers.Contract(
-    "0xc70a397227AB2aEC717c767718Afc173B7B7cf86",
+    "0xf6c5bF09e592bAC86be343f9602d981F677c7b5D",
     faucetAbi,
     provider
   );
